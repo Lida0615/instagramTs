@@ -1,0 +1,28 @@
+.btn{
+    padding: 9px 0px 8px 0px;
+    font-size: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+
+}
+
+.outline {
+    border: 1px solid #DBDBDB;
+    background: #fff;
+}
+.solid {   
+    background: #4cb5f9;
+    color: #fff;
+}
+.max{
+    width: 100%;
+}
+.btnImage{
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
